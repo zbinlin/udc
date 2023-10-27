@@ -23,12 +23,17 @@ dns = [
     "2400:3200:baba::1@853#dns.alidns.com",
 ]
 domains = [
+    "pi.wwan.buzz",
     "cn",
+    "cdngslb.com",
+    "ks-cdn.com",
+    "ksyuncdn.com",
 
     "baidu.com",
     "bdimg.com",
     "bcebos.com",
     "bdstatic.com",
+    "shifen.com",
 
     "jd.com",
     "360buyimg.com",
@@ -37,8 +42,13 @@ domains = [
     "cdn20.com",
     "jcloud-cdn.com",
     "jcloudimg.com",
+    "herdcloud.com",
 
     "zhihu.com",
+    "zhimg.com",
+    "ovscdns.com",
+    "dnsv1.com",
+    "chinaidcnet.com",
 
     "alibaba.com",
     "aliapp.org",
@@ -49,4 +59,64 @@ domains = [
     "tmall.com",
     "alicdn.com",
     "mmstat.com",
+
+    "bilibili.com",
+    "hdslb.com",
+    "bilicdn1.com",
+
+    "smzdm.com",
+    "qcloudcjgj.com",
+    "zdmimg.com",
+
+    "126.net",
+    "127.net",
+    "163.com",
+    "163yun.com",
+    "kunluncan.com",
+    "kunlunca.com",
+    "netease.com",
+    "kunlunso.com",
+
+    "anydesk.com",
+
+    "douyin.com",
+    "douyinpic.com",
+    "douyinstatic.com",
+    "douyinvod.com",
+    "bytedance.com",
+    "bytetos.com",
+    "bytescm.com",
+    "bytegoofy.com",
+    "bytednsdoc.com",
+    "edge-byted.com",
+    "byteimg.com",
+    "bytedns1.com",
+    "queniuiq.com",
+    "queniubg.com",
+    "queniusz.com",
+    "queniuum.com",
+    "queniuyk.com",
+    "queniusy.com",
+    "queniuso.com",
+    "fclouddns.net",
+
+    "ixigua.com",
+    "snssdk.com",
+    "bdxiguastatic.com",
+
+    "zijieapi.com",
+
+    "alikunlun.com",
+    "wsglb0.com",
+
+    "uyun-cdn.com",
+
+    "cdnhwc1.com",
+    "cdnhwc2.com",
+
+    "qingting.fm",
+
+    "tencent.com",
+    "tencent-cloud.com",
+    "edgeonedy1.com",
 ]
